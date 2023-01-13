@@ -1,0 +1,12 @@
+{
+  "name": "haunted-starter-app",
+  "version": "1.0.0",
+  "description": "A project for creating apps with Haunted and lit-html.",
+  "main": "index.html",
+  "scripts": {},
+  "dependencies": {
+    "haunted": "4.5.1",
+    "lit-html": "1.1.1"
+  },
+  "keywords": ["web-components", "lit-html"]
+}
